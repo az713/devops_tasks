@@ -1,0 +1,19 @@
+{
+  "name": "awesome-npm-task",
+  "version": "1.0.1",
+  "description": "the awesome package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/az713/devops_tasks.git"
+  },
+  "author": "Abay",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/az713/devops_tasks/issues"
+  },
+  "homepage": "https://github.com/az713/devops_tasks#readme"
+}
