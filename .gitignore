@@ -105,4 +105,4 @@ dist
 
 ##### Composer
 composer.phar
-/vendor/
+vendor/
